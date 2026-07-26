@@ -166,7 +166,46 @@
 
 # for i in range(1,num+1):
 #     print("*"* i)
-for i in range(1, 6):
+# for i in range(1, 6):
+#     for j in range(i):
+#         print("*", end="")
+#     print()
+
+
+# for i in range(3):
+#     for j in range(3):
+#         print(j,end="")
+#     print()
+# for i in range(3):
+#     for j in range(3):
+#         print(i+1,end="")
+#     print()
+# for i in range(3):
+#     for j in range(5):
+#         print(j+1,end="")
+#     print()
+# for i in range(3):
+#     for j in range(5):
+#         print(j+1,end="")
+#     print()
+    
+# for i in range(3):
+#     for j in range(4):
+#         print(chr(65 + i), end="")
+#     print()
+
+# for i in range(1,6):
+#     for j in range(1,i):
+#         print(j, end="")
+#     print(i)
+
+
+# for i in range(1,6):
+#     for j in range(5,i,-1):
+#         print(j, end="")
+#     print(i)
+
+for i in range(1,6):
     for j in range(i):
-        print("*", end="")
+        print(i,end="")
     print()
