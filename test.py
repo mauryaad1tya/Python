@@ -219,17 +219,27 @@
 #     print()
 
 
-for i in range(5, 0, -1):
+# for i in range(5, 0, -1):
+
+#     # Print spaces
+#     for j in range(5 - i):
+#         print(" ", end="")
+
+#     # Print stars
+#     for j in range(i):
+#         print("*", end="")
+
+#     # Move to next line
+#     print()
+    
+for i in range(1, 6):
 
     # Print spaces
-    for j in range(5 - i):
+    for j in range(i - 1):
         print(" ", end="")
 
-    # Print stars
-    for j in range(i):
-        print("*", end="")
+    # Print numbers
+    for j in range(i, 6):
+        print(j, end="")
 
-    # Move to next line
     print()
-    
-    
