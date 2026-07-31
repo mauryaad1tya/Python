@@ -232,14 +232,61 @@
 #     # Move to next line
 #     print()
     
-for i in range(1, 6):
+# for i in range(1, 6):ṇ
 
-    # Print spaces
-    for j in range(i - 1):
-        print(" ", end="")
+#     # Print spaces
+#     for j in range(i - 1):
+#         print(" ", end="")
 
-    # Print numbers
-    for j in range(i, 6):
-        print(j, end="")
+#     # Print numbers
+#     for j in range(i, 6):
+#         print(j, end="")
 
-    print()
+#     print()
+# numbers = [10, 20, 30, 40, 50]
+
+# print(numbers[0])
+# print(numbers[2])
+
+# fruits = ["Apple", "Banana", "Mango", "Orange"]
+
+# print(fruits[0])
+# print(fruits[1])
+# print(fruits[2])
+# print(fruits[3])
+
+# colors = ["Red", "Blue", "Green", "Yellow"]
+# colors[2] = "Black"
+# print(colors)
+
+# numbers = [10, 20, 30, 40, 50]
+# print(numbers[1])
+# print(numbers[3])
+
+# fruits = ["Apple", "Banana"]
+
+# fruits.append("Mango")
+
+# print(fruits)
+
+# cities = ["Delhi", "Mumbai"]
+# cities.append("Banglore")
+# print(cities)
+
+# numbers = [10, 20, 30]
+# numbers.append(40)
+# numbers.append(50)
+
+# print(numbers)
+
+
+
+# numbers = [10, 20]
+# print(numbers.append(30))
+
+# numbers = [5, 10]
+
+# x = numbers.append(15)
+
+# print(x)
+# print(numbers)
