@@ -281,7 +281,7 @@
 
 
 
-# numbers = [10, 20]
+# # numbers = [10, 20]
 # print(numbers.append(30))
 
 # numbers = [5, 10]
@@ -290,3 +290,6 @@
 
 # print(x)
 # print(numbers)
+
+cars = ["BMW","Audi","Mercedes","Toyota"]
+print(cars)
